@@ -45,6 +45,6 @@ geth:
     # network will run. The Ethereum account will be used to seed
     # Ether and mined Ether will be deposited into this account.
     # ref: https://github.com/ethereum/go-ethereum/wiki/Managing-your-accounts
-    address:
-    privateKey:
-    secret:
+    address: '0x87bE88523441DC306E9576E485658efC63e50823'
+    privateKey: '1fbaaf6ef1398d10878bf032054f4f0c239129eb32eed7e7b9c933d5e08f5970'
+    secret: 'Eth.4TW!'
